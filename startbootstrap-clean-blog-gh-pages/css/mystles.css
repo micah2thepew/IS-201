@@ -1,0 +1,91 @@
+body{
+    color: rgb(79, 95, 100);
+    font-family: "Futura", sans-serif;
+}
+
+h3{
+    color:black;
+}
+
+.img{
+    width: 250px;
+    height: auto;
+}
+
+.mainbody{
+    text-align: center;
+    background-color: rgb(232, 241, 241);
+}
+
+ul{
+    text-align: left;
+    display: inline-block;
+}
+
+ol{
+    text-align: left;
+    display: inline-block;
+}
+
+.nav{
+    padding-top: 10px;
+    padding-right: 10px;
+    text-align: right;
+    float: right;
+}
+
+.fb-link{
+    align-items: center;
+    max-width: 1500px; /* Optional: Set a max-width for the content */
+    text-align: center;
+}
+
+.list{
+    align-items: center;
+    font-family: "Futura", sans-serif;
+
+}
+
+a{
+    color: rgb(79, 95, 100);
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(114, 114, 208);
+}
+
+.Jordan1{
+    max-width: 400px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 25px;
+    padding-left: 100px;
+    padding-top: 10px;
+}
+
+.Series{
+    max-width: 300px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 25px;
+    padding-left: 200px;
+    padding-top: 10px;
+}
+
+.Waffle{
+    max-width: 300px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 25px;
+    padding-left: 200px;
+    padding-top: 10px;
+}
+
+.video{
+    padding-bottom: 50px;
+}
+
+.wants{
+    font-size: 20px;
+}
